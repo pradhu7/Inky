@@ -1,3 +1,5 @@
+https://learn.pimoroni.com/article/getting-started-with-inky-impression
+
 # Inky
 
 [![Build Status](https://img.shields.io/github/actions/workflow/status/pimoroni/inky/test.yml?branch=main)](https://github.com/pimoroni/inky/actions/workflows/test.yml)
